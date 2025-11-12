@@ -13,7 +13,7 @@ Enable crypto payment using MetaMask:
 
 - Add MetaMask account connection
 - "Today's ETH price" toggle button
-- Show the MetaMask address of the server
+- "Recipient MetaMask Address" with Copy Button
 
 ## Detailed documents
 
